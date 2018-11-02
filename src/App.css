@@ -1,0 +1,47 @@
+#Container{
+    margin-top: 2%;
+    padding-top: 15pt;
+    padding-right: 200pt;
+    padding-bottom: 15pt;
+    padding-left: 200pt;
+
+
+}
+
+.HorLine{
+    border-style: solid;
+    border-bottom: 0.1pt;
+    border-color: gray;
+}
+
+.paddingBox{
+    height: 20px;
+}
+
+.CardComp{ 
+    margin-top: 50px;
+    width: 350px;
+}
+
+.CardForm {
+    padding-top: 20pt;
+    padding-right: 20pt;
+    padding-bottom: 20pt;
+    padding-left: 20pt;
+}
+
+Button{
+    width: 100%;
+}
+
+Label{
+    font-weight: bold;
+}
+
+.CardForm {
+    padding-top: 5pt;
+    padding-right: 5pt;
+    padding-bottom: 5pt;
+    padding-left: 5pt;
+}
+
